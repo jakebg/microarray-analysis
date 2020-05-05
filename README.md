@@ -26,13 +26,12 @@ Jury Decision, k=3                   training values 97.4%
                                      testing values  100%
 Jury Decision, k=5                   training values 97.4%
                                      testing values  100%
-
-6                                         
-Leukemia Vector:             [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1 1 1 1 1 1 1 1 1 1 1 1]     35/35
+                                     
+Leukemia Vector:             [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1 1 1 1 1 1 1 1 1 1 1 1]  35/35
 Euclidian, k=3 prediction:   [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1 1 0 1 1 1 0 1 0 1 1 1]  32/35
 Euclidian, k=5 prediction:   [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1 1 0 0 1 1 1 1 0 1 1 1]  32/35
-Manhattan, k=3 prediction:   [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1 1 0 1 1 1 1 1 1 1 1 1]     34/35
-Manhattan, k=5 prediction:   [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1 1 0 1 1 1 1 1 0 1 1 1]   33/35
+Manhattan, k=3 prediction:   [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1 1 0 1 1 1 1 1 1 1 1 1]  34/35
+Manhattan, k=5 prediction:   [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1 1 0 1 1 1 1 1 0 1 1 1]  33/35
 
 ## Conclusion
 * Leukemia is a cancer that starts in the bone marrow, classified as ALL or AML 
